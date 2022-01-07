@@ -1,0 +1,16 @@
+{
+  "description": "My awesome FT1 using ERC1155",
+  "external_url": "https://forum.openzeppelin.com",
+  "image": "https://openmoji.org/data/color/svg/1FA99.svg",
+  "name": "#MYFT1",
+  "properties": {
+    "issuer": "GHI",
+    "length": "120",
+    "width": "24",
+    "height": "120",
+    "weight": "240",
+    "color": "green",
+    "material": "plastic",
+    "shape": "rounded"
+  }
+}
