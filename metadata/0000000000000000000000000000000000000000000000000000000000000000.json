@@ -1,0 +1,16 @@
+{
+  "description": "My awesome NFT0 using ERC1155",
+  "external_url": "https://forum.openzeppelin.com",
+  "image": "https://openmoji.org/data/color/svg/1FA99.svg",
+  "name": "#MYNFT0",
+  "properties": {
+    "issuer": "DEF",
+    "length": "12",
+    "width": "3",
+    "height": "14",
+    "weight": "132",
+    "color": "green",
+    "material": "plastic",
+    "shape": "square"
+  }
+}
